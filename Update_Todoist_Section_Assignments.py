@@ -22,7 +22,7 @@ Instructions:
     1. Log into your Todoist web app, navigate to Settings > Integrations > Developer tab, and copy your personal API token to your clipboard.
     2. Paste the token between the double quotes in the variable definition below:
 '''
-API_TOKEN = "da2a834fdd7f56bdf2cd297d97d82015de2458cc"
+API_TOKEN = ""
 '''
     3. Execute.
 
