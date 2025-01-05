@@ -25,7 +25,7 @@ These sections are created if they do not already exist.
 
 API_TOKEN = ""
 
-4. Ensure that all of the following Python modules have been installed:
+4. Ensure that all of the following modules have been installed:
    * todoist_api_python
    * datetime
    * python-dateutil
