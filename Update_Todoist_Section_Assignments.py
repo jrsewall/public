@@ -40,7 +40,7 @@ import sys
 from tqdm import tqdm
 
 '''
-Function Defintions
+Function Definitions
 '''
 def get_inbox_id():
 # Get the project id of the "Inbox" project, which exists by default.  This is the Todoist project we will operate on.
