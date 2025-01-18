@@ -121,8 +121,8 @@ def construct_data_objects(SECTIONS):
     current['quarter'] = quarters[current['month']] 
     current['week'] = datetime.now().date().isocalendar()[1]
 
-    for key,value in current.items():
-        print(f'current.{key} = {value}')
+    #for key,value in current.items():
+    #    print(f'current.{key} = {value}')
 
     return task_dictionary,inbox_section_ids,inbox_id,inbox_section_names,quarters,current
 
